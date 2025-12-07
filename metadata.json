@@ -1,0 +1,5 @@
+{
+  "name": "Memory Match",
+  "description": "A classic memory card game. Flip cards to find matching pairs and test your memory!",
+  "requestFramePermissions": []
+}
